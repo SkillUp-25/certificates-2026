@@ -1,197 +1,49 @@
 {
   "_id": {
-    "$oid": "69e08368e536c558fb60da4d"
+    "$oid": "6a705132c69824976e0f73d9"
   },
-  "fullName": "Mohit Kumar",
+  "fullName": "Harpreet Singh",
   "photo": {
-    "public_id": "student-photos/omzbbw54pmgcma70ky2y",
-    "url": "https://res.cloudinary.com/dufxj1sau/image/upload/v1784661802/student-photos/omzbbw54pmgcma70ky2y.jpg"
+    "public_id": "student-photos/o9b6qbtrdapc12flckrt",
+    "url": "https://res.cloudinary.com/dufxj1sau/image/upload/v1785815305/student-photos/o9b6qbtrdapc12flckrt.jpg"
   },
   "gender": "Male",
-  "fatherName": "Parmodh Kumar",
-  "motherName": "Sunita rani",
-  "parentsPhoneNumber": "7087645237",
-  "emailAddress": "barpaggamohit.2000@gmail.com",
-  "phoneNumber": "7087645237",
+  "fatherName": "Gurdyal singh",
+  "motherName": "Balwinder kaur",
+  "parentsPhoneNumber": "6239370422",
+  "emailAddress": "hc214578@gmail.com",
+  "phoneNumber": "6239370422",
   "dateOfBirth": {
-    "$date": "2008-04-15T00:00:00.000Z"
+    "$date": "2003-09-30T00:00:00.000Z"
   },
   "joiningDate": {
-    "$date": "2026-04-16T00:00:00.000Z"
+    "$date": "2026-08-03T00:00:00.000Z"
   },
-  "aadharNumber": "224993929873",
+  "aadharNumber": "203994602431",
   "selectedCourse": "Computer Course",
   "courseDuration": "3 Months",
-  "address": "Parowal,DIST: Hoshiarpur, Punjab-144527, India",
-  "qualification": "12th",
-  "password": "$2b$10$XgKOlGfEKPiipa2iqjSPmOHr5C91lJhKvIAB3JhrQBw4.c4g51HEC",
+  "address": "Village Sauli",
+  "qualification": "Graduated",
+  "password": "$2b$10$04pcB78OJRAkBfkEg91GBeCqL5xIj7OHm9yk4L.SD0.uWmAiyeiqy",
   "certificate": false,
   "feeDetails": {
-    "installmentDetails": [
-      {
-        "amount": 5000,
-        "submissionDate": {
-          "$date": "2026-04-16T00:00:00.000Z"
-        },
-        "paid": true,
-        "payments": [
-          {
-            "amount": 5000,
-            "date": {
-              "$date": "2026-05-09T05:40:25.996Z"
-            },
-            "method": "online",
-            "_id": {
-              "$oid": "69fec8c9b4046efdca1b3f1d"
-            }
-          }
-        ],
-        "_id": {
-          "$oid": "69fec8c4b9818ad6bc32904f"
-        }
-      }
-    ],
-    "payments": [
-      {
-        "amount": 5000,
-        "date": {
-          "$date": "2026-05-09T05:40:25.996Z"
-        },
-        "method": "online",
-        "_id": {
-          "$oid": "69fec8c9b4046efdca1b3f1c"
-        }
-      }
-    ],
-    "installments": 1,
-    "remainingFees": 0,
-    "totalFees": 5000
+    "installmentDetails": [],
+    "payments": []
   },
   "finalGrade": "Pending",
   "totalAchievedMarks": 0,
   "percentage": 0,
   "examResults": [],
   "createdAt": {
-    "$date": "2026-04-16T06:36:24.104Z"
+    "$date": "2026-08-03T08:28:34.079Z"
   },
   "updatedAt": {
-    "$date": "2026-07-21T19:23:23.082Z"
+    "$date": "2026-08-04T03:48:26.296Z"
   },
   "certificationTitle": "CERTIFICATION IN COMPUTER APPLICATION",
   "farewellDate": {
-    "$date": "2026-07-16T00:00:00.000Z"
+    "$date": "2026-11-03T00:00:00.000Z"
   },
-  "rollNo": "2026040",
-  "__v": 2
-},
-
-
-
-{
-  "_id": {
-    "$oid": "69d3330424c007aeae825f2a"
-  },
-  "fullName": "Avtar",
-  "photo": {
-    "public_id": "student-photos/spf0kdov8aj9w0cbfgcz",
-    "url": "https://res.cloudinary.com/dufxj1sau/image/upload/v1784538437/student-photos/spf0kdov8aj9w0cbfgcz.jpg"
-  },
-  "gender": "Male",
-  "fatherName": "Rajinder kumar",
-  "motherName": "Harjinder Kaur",
-  "parentsPhoneNumber": "8699719603",
-  "emailAddress": "rajachopra295@gmail.com",
-  "phoneNumber": "8699719603",
-  "dateOfBirth": {
-    "$date": "2009-09-20T00:00:00.000Z"
-  },
-  "joiningDate": {
-    "$date": "2026-04-06T00:00:00.000Z"
-  },
-  "aadharNumber": "235071524829",
-  "selectedCourse": "Computer Course",
-  "courseDuration": "3 Months",
-  "address": "Rampur Bilron",
-  "qualification": "12th",
-  "password": "$2b$10$LSjtBjyjZEaj2k3HFTR6VuOemgzSlwSBku845sJOk3YN6.Ol7KvXm",
-  "certificate": false,
-  "feeDetails": {
-    "installmentDetails": [
-      {
-        "amount": 1500,
-        "submissionDate": {
-          "$date": "2026-04-06T00:00:00.000Z"
-        },
-        "paid": true,
-        "payments": [
-          {
-            "amount": 1500,
-            "date": {
-              "$date": "2026-05-02T04:20:34.262Z"
-            },
-            "method": "online",
-            "_id": {
-              "$oid": "69f57b927bc97d459986fff1"
-            }
-          }
-        ],
-        "_id": {
-          "$oid": "69f57b8399481e1c54c9feac"
-        }
-      },
-      {
-        "amount": 2500,
-        "submissionDate": {
-          "$date": "2026-05-21T12:00:00.000Z"
-        },
-        "paid": false,
-        "payments": [],
-        "_id": {
-          "$oid": "69f57b8399481e1c54c9fead"
-        }
-      },
-      {
-        "amount": 2000,
-        "submissionDate": {
-          "$date": "2026-07-06T00:00:00.000Z"
-        },
-        "paid": false,
-        "payments": [],
-        "_id": {
-          "$oid": "69f57b8399481e1c54c9feae"
-        }
-      }
-    ],
-    "payments": [
-      {
-        "amount": 1500,
-        "date": {
-          "$date": "2026-05-02T04:20:34.262Z"
-        },
-        "method": "online",
-        "_id": {
-          "$oid": "69f57b927bc97d459986fff0"
-        }
-      }
-    ],
-    "installments": 3,
-    "remainingFees": 4500,
-    "totalFees": 6000
-  },
-  "finalGrade": "Pending",
-  "totalAchievedMarks": 0,
-  "percentage": 0,
-  "examResults": [],
-  "createdAt": {
-    "$date": "2026-04-06T04:13:56.115Z"
-  },
-  "updatedAt": {
-    "$date": "2026-07-20T09:07:18.375Z"
-  },
-  "certificationTitle": "CERTIFICATION IN COMPUTER APPLICATION",
-  "farewellDate": {
-    "$date": "2026-07-06T00:00:00.000Z"
-  },
-  "rollNo": "2026030",
-  "__v": 2
-},
+  "rollNo": "2026114",
+  "__v": 0
+}
