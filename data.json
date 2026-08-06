@@ -1,31 +1,31 @@
 {
   "_id": {
-    "$oid": "6a705132c69824976e0f73d9"
+    "$oid": "69ef127812ef42c5cf94917d"
   },
-  "fullName": "Harpreet Singh",
+  "fullName": "Shivani",
   "photo": {
-    "public_id": "student-photos/o9b6qbtrdapc12flckrt",
-    "url": "https://res.cloudinary.com/dufxj1sau/image/upload/v1785815305/student-photos/o9b6qbtrdapc12flckrt.jpg"
+    "public_id": "student-photos/gc0zfslmrg0mnxo1kauk",
+    "url": "https://res.cloudinary.com/dufxj1sau/image/upload/v1786009134/student-photos/gc0zfslmrg0mnxo1kauk.jpg"
   },
-  "gender": "Male",
-  "fatherName": "Gurdyal singh",
-  "motherName": "Balwinder kaur",
-  "parentsPhoneNumber": "6239370422",
-  "emailAddress": "hc214578@gmail.com",
-  "phoneNumber": "6239370422",
+  "gender": "Female",
+  "fatherName": "Sukhwinder Singh",
+  "motherName": "Sunita Devi",
+  "parentsPhoneNumber": "9781913089",
+  "emailAddress": "s73402549@gmail.com",
+  "phoneNumber": "9464874727",
   "dateOfBirth": {
-    "$date": "2003-09-30T00:00:00.000Z"
+    "$date": "2009-07-14T00:00:00.000Z"
   },
   "joiningDate": {
-    "$date": "2026-08-03T00:00:00.000Z"
+    "$date": "2026-04-27T00:00:00.000Z"
   },
-  "aadharNumber": "203994602431",
+  "aadharNumber": "745222319421",
   "selectedCourse": "Computer Course",
   "courseDuration": "3 Months",
-  "address": "Village Sauli",
-  "qualification": "Graduated",
-  "password": "$2b$10$04pcB78OJRAkBfkEg91GBeCqL5xIj7OHm9yk4L.SD0.uWmAiyeiqy",
-  "certificate": false,
+  "address": "Bagwain",
+  "qualification": "12th",
+  "password": "$2b$10$zhQv1y2e./4NgcIIusp35uWD0Y6Hk3Iif3y9/6g88yMZcNhMr/KoW",
+  "certificate": true,
   "feeDetails": {
     "installmentDetails": [],
     "payments": []
@@ -35,15 +35,15 @@
   "percentage": 0,
   "examResults": [],
   "createdAt": {
-    "$date": "2026-08-03T08:28:34.079Z"
+    "$date": "2026-04-27T07:38:32.597Z"
   },
   "updatedAt": {
-    "$date": "2026-08-04T03:48:26.296Z"
+    "$date": "2026-08-06T09:39:09.765Z"
   },
   "certificationTitle": "CERTIFICATION IN COMPUTER APPLICATION",
   "farewellDate": {
-    "$date": "2026-11-03T00:00:00.000Z"
+    "$date": "2026-07-27T00:00:00.000Z"
   },
-  "rollNo": "2026114",
+  "rollNo": "2026049",
   "__v": 0
 }
