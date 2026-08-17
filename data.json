@@ -1,49 +1,86 @@
 {
   "_id": {
-    "$oid": "69ef127812ef42c5cf94917d"
+    "$oid": "6a59ae1c3dfe80e82c56bcbc"
   },
-  "fullName": "Shivani",
+  "fullName": "Harpreet Kaur",
   "photo": {
-    "public_id": "student-photos/gc0zfslmrg0mnxo1kauk",
-    "url": "https://res.cloudinary.com/dufxj1sau/image/upload/v1786009134/student-photos/gc0zfslmrg0mnxo1kauk.jpg"
+    "public_id": "student-photos/ovniibxhesccjkocwzph",
+    "url": "https://res.cloudinary.com/dufxj1sau/image/upload/v1786680561/student-photos/ovniibxhesccjkocwzph.jpg"
   },
   "gender": "Female",
-  "fatherName": "Sukhwinder Singh",
-  "motherName": "Sunita Devi",
-  "parentsPhoneNumber": "9781913089",
-  "emailAddress": "s73402549@gmail.com",
-  "phoneNumber": "9464874727",
+  "fatherName": "Kuldeep Kumar",
+  "motherName": "Suman Bala",
+  "parentsPhoneNumber": "9815825702",
+  "emailAddress": "hakaur3300@gmail.com",
+  "phoneNumber": "6239715246",
   "dateOfBirth": {
-    "$date": "2009-07-14T00:00:00.000Z"
+    "$date": "2004-11-04T00:00:00.000Z"
   },
   "joiningDate": {
-    "$date": "2026-04-27T00:00:00.000Z"
+    "$date": "2026-07-01T00:00:00.000Z"
   },
-  "aadharNumber": "745222319421",
-  "selectedCourse": "Computer Course",
-  "courseDuration": "3 Months",
-  "address": "Bagwain",
+  "aadharNumber": "845105480737",
+  "selectedCourse": "Industrial Training",
+  "courseDuration": "45 Days",
+  "address": "Puda Colony, Anandpur sahib road, Ward Number 11, Garhshankar, Hoshiarpur, Punjanb- 144527",
   "qualification": "12th",
-  "password": "$2b$10$zhQv1y2e./4NgcIIusp35uWD0Y6Hk3Iif3y9/6g88yMZcNhMr/KoW",
-  "certificate": true,
+  "password": "$2b$10$V5/YZh0DDEtnchZwO1IkSudIv0dSRgHh7qA8WkmtmFP9XzOd7CJL2",
+  "certificate": false,
   "feeDetails": {
-    "installmentDetails": [],
-    "payments": []
+    "installmentDetails": [
+      {
+        "amount": 4000,
+        "submissionDate": {
+          "$date": "2026-07-01T00:00:00.000Z"
+        },
+        "paid": true,
+        "payments": [
+          {
+            "amount": 4000,
+            "date": {
+              "$date": "2026-07-25T04:36:14.280Z"
+            },
+            "method": "online",
+            "_id": {
+              "$oid": "6a643d3e25fbd7c69a230d40"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "6a643d3a2646b461812273fd"
+        }
+      }
+    ],
+    "payments": [
+      {
+        "amount": 4000,
+        "date": {
+          "$date": "2026-07-25T04:36:14.280Z"
+        },
+        "method": "online",
+        "_id": {
+          "$oid": "6a643d3e25fbd7c69a230d3f"
+        }
+      }
+    ],
+    "installments": 1,
+    "remainingFees": 0,
+    "totalFees": 4000
   },
   "finalGrade": "Pending",
   "totalAchievedMarks": 0,
   "percentage": 0,
   "examResults": [],
   "createdAt": {
-    "$date": "2026-04-27T07:38:32.597Z"
+    "$date": "2026-07-17T04:22:52.028Z"
   },
   "updatedAt": {
-    "$date": "2026-08-06T09:39:09.765Z"
+    "$date": "2026-08-14T04:17:54.801Z"
   },
-  "certificationTitle": "CERTIFICATION IN COMPUTER APPLICATION",
+  "certificationTitle": "INDUSTRIAL TRAINING CERTIFICATION",
   "farewellDate": {
-    "$date": "2026-07-27T00:00:00.000Z"
+    "$date": "2026-08-14T00:00:00.000Z"
   },
-  "rollNo": "2026049",
-  "__v": 0
+  "rollNo": "2026102",
+  "__v": 2
 }
