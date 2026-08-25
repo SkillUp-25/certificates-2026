@@ -1,0 +1,49 @@
+{
+  "_id": {
+    "$oid": "6a8beef28697aa8198d2435f"
+  },
+  "fullName": "Neha",
+  "photo": {
+    "public_id": "student-photos/nallmamfyxi3wgrywlqp",
+    "url": "https://res.cloudinary.com/dufxj1sau/image/upload/v1787636194/student-photos/nallmamfyxi3wgrywlqp.jpg"
+  },
+  "gender": "Female",
+  "fatherName": "Kulwant Singh",
+  "motherName": "Baby",
+  "parentsPhoneNumber": "8284077128",
+  "emailAddress": "nehakaler09@gmail.com",
+  "phoneNumber": "7508563310",
+  "dateOfBirth": {
+    "$date": "2003-04-25T00:00:00.000Z"
+  },
+  "joiningDate": {
+    "$date": "2025-06-01T00:00:00.000Z"
+  },
+  "aadharNumber": "974045836291",
+  "selectedCourse": "Computer Course",
+  "courseDuration": "3 Months",
+  "address": "Village-Sudha Majra, P/O- Rakran Bet, S.B.S.Nagar.",
+  "qualification": "Graduated",
+  "password": "$2b$10$G6Jo24WCs.nOwS8ydl2pB.8Xj62EJFsJ8VaZiapdyPZSasCmnIAXa",
+  "certificate": false,
+  "feeDetails": {
+    "installmentDetails": [],
+    "payments": []
+  },
+  "finalGrade": "Pending",
+  "totalAchievedMarks": 0,
+  "percentage": 0,
+  "examResults": [],
+  "createdAt": {
+    "$date": "2026-08-24T07:12:50.414Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-25T05:37:03.536Z"
+  },
+  "certificationTitle": "CERTIFICATION IN COMPUTER APPLICATION",
+  "farewellDate": {
+    "$date": "2025-09-01T00:00:00.000Z"
+  },
+  "rollNo": "2026130",
+  "__v": 0
+},
