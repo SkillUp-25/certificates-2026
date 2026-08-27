@@ -1,49 +1,97 @@
 {
   "_id": {
-    "$oid": "6a8beef28697aa8198d2435f"
+    "$oid": "6a643d2d2646b461812273f9"
   },
-  "fullName": "Neha",
+  "fullName": "Simran Devi",
   "photo": {
-    "public_id": "student-photos/nallmamfyxi3wgrywlqp",
-    "url": "https://res.cloudinary.com/dufxj1sau/image/upload/v1787636194/student-photos/nallmamfyxi3wgrywlqp.jpg"
+    "public_id": "student-photos/cstwt5yne990pinffzit",
+    "url": "https://res.cloudinary.com/dufxj1sau/image/upload/v1787727491/student-photos/cstwt5yne990pinffzit.jpg"
   },
   "gender": "Female",
-  "fatherName": "Kulwant Singh",
-  "motherName": "Baby",
-  "parentsPhoneNumber": "8284077128",
-  "emailAddress": "nehakaler09@gmail.com",
-  "phoneNumber": "7508563310",
+  "fatherName": "Jaswinder Kumar",
+  "motherName": "Darshna",
+  "parentsPhoneNumber": "9315566958",
+  "emailAddress": "sb6440098@gmail.com",
+  "phoneNumber": "7743047761",
   "dateOfBirth": {
-    "$date": "2003-04-25T00:00:00.000Z"
+    "$date": "2005-03-05T00:00:00.000Z"
   },
   "joiningDate": {
-    "$date": "2025-06-01T00:00:00.000Z"
+    "$date": "2026-05-25T00:00:00.000Z"
   },
-  "aadharNumber": "974045836291",
-  "selectedCourse": "Computer Course",
+  "aadharNumber": "425688095346",
+  "selectedCourse": "Computer Application",
   "courseDuration": "3 Months",
-  "address": "Village-Sudha Majra, P/O- Rakran Bet, S.B.S.Nagar.",
+  "address": "V.P.O MALEWAL BHATIAN , TEHSIL BALACHAUR , DISTRICT S.B.S NAGAR",
   "qualification": "Graduated",
-  "password": "$2b$10$G6Jo24WCs.nOwS8ydl2pB.8Xj62EJFsJ8VaZiapdyPZSasCmnIAXa",
+  "password": "$2b$10$p66cxr5BmXQjV7/Cj/CgxeBvpCEQx7B/JrdgK4mkV1jPy8mIFaL16",
   "certificate": false,
   "feeDetails": {
-    "installmentDetails": [],
-    "payments": []
+    "installmentDetails": [
+      {
+        "amount": 3000,
+        "submissionDate": {
+          "$date": "2026-05-25T00:00:00.000Z"
+        },
+        "paid": true,
+        "payments": [
+          {
+            "amount": 3000,
+            "date": {
+              "$date": "2026-07-25T04:42:26.949Z"
+            },
+            "method": "online",
+            "_id": {
+              "$oid": "6a643eb22646b4618122742a"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "6a643eab25fbd7c69a230d4f"
+        }
+      },
+      {
+        "amount": 3500,
+        "submissionDate": {
+          "$date": "2026-08-25T00:00:00.000Z"
+        },
+        "paid": false,
+        "payments": [],
+        "_id": {
+          "$oid": "6a643eab25fbd7c69a230d50"
+        }
+      }
+    ],
+    "payments": [
+      {
+        "amount": 3000,
+        "date": {
+          "$date": "2026-07-25T04:42:26.949Z"
+        },
+        "method": "online",
+        "_id": {
+          "$oid": "6a643eb22646b46181227429"
+        }
+      }
+    ],
+    "installments": 2,
+    "remainingFees": 3500,
+    "totalFees": 6500
   },
   "finalGrade": "Pending",
   "totalAchievedMarks": 0,
   "percentage": 0,
   "examResults": [],
   "createdAt": {
-    "$date": "2026-08-24T07:12:50.414Z"
+    "$date": "2026-07-25T04:35:57.130Z"
   },
   "updatedAt": {
-    "$date": "2026-08-25T05:37:03.536Z"
+    "$date": "2026-08-27T05:23:14.270Z"
   },
   "certificationTitle": "CERTIFICATION IN COMPUTER APPLICATION",
   "farewellDate": {
-    "$date": "2025-09-01T00:00:00.000Z"
+    "$date": "2026-08-25T00:00:00.000Z"
   },
-  "rollNo": "2026130",
-  "__v": 0
+  "rollNo": "2026109",
+  "__v": 2
 },
